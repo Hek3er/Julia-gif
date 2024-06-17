@@ -1,1 +1,1 @@
-![Fractal-gif] (./preview/output.gif)
+![Fractal-gif] (preview/output.gif)
