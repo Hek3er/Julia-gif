@@ -1,1 +1,1 @@
-![Fractal-gif] (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb245aHQ2d3V1ejQxenJwa3l5cGVobjU0MDVodXVlMTZlYTI4YTdrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5syviUihRpFTYsGqOf/giphy.gif)
+![Fractal-gif] (![preview/output.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb245aHQ2d3V1ejQxenJwa3l5cGVobjU0MDVodXVlMTZlYTI4YTdrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5syviUihRpFTYsGqOf/giphy.gif))
